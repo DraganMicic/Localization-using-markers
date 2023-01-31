@@ -1,2 +1,2 @@
 # Localization-using-markers
-Indoor Localization Using Fiducial Markers. Summer science project in Petnica science center in 2017.
+Indoor localization using fiducial markers. Summer science project in Petnica science center in 2017.
